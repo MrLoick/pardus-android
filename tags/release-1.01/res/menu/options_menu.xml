@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/option_showlinks"
+        android:orderInCategory="0"
+        android:title="@string/option_showlinks">
+    </item>
+    <item
+        android:id="@+id/option_refresh"
+        android:orderInCategory="0"
+        android:title="@string/option_refresh">
+    </item>
+    <item
+        android:id="@+id/option_settings"
+        android:orderInCategory="0"
+        android:title="@string/option_settings">
+    </item>
+    <item
+        android:id="@+id/option_login"
+        android:orderInCategory="0"
+        android:title="@string/option_login">
+    </item>
+    <item
+        android:id="@+id/option_logout"
+        android:orderInCategory="0"
+        android:title="@string/option_logout">
+    </item>
+
+</menu>
